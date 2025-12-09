@@ -302,7 +302,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- ar cheemala - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -315,8 +315,9 @@ This project is licensed under the MIT License.
 For issues and questions:
 
 - Open an issue on GitHub
-- Contact: your-email@example.com
+- Contact: abbi.cheemala@gmail.com
 
 ---
 
 **Built with ❤️ and Rust**
+
